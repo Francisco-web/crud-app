@@ -1,6 +1,7 @@
 ## Requisitos 
 
 - PHP 8.2 ou Superior
+- Mysql 8 ou superior
 - Composer
 
 ## Como rodar o projecto baixado
